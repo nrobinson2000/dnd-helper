@@ -1,20 +1,26 @@
 # The stuff
 
 List
+
 1. Select/Delete Entities
 
 Entities
+
 1. Stats
 2. Attacks
 3. Spells
 
 Stats
-Name
-Level
-Class Levels
-HP Current
-HP Max
-HP Temp
+
+1. Name
+2. Level
+3. Race
+4. Class
+
+1. HP Max
+2. HP Current
+3. HP Temp
+
 AC
 Movement
 STR
