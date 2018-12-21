@@ -21,19 +21,26 @@ Stats
 2. HP Current
 3. HP Temp
 
-AC
-Movement
-STR
-DEX
-CON
-INT
-WIS
-CHA
-STR Save
-DEX Save
-CON Save
-INT Save
-WIS Save
-CHA Save
-Skills
-Proficiencies
+1. Initiative
+2. Armor
+3. Movement
+
+1. STR
+2. DEX
+3. CON
+4. INT
+5. WIS
+6. CHA
+
+1. STR Save
+2. DEX Save
+3. CON Save
+4. INT Save
+5. WIS Save
+6. CHA Save
+
+1. Skills
+2. Proficiencies
+3. Abilities
+
+1. Equipment
