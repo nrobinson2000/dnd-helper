@@ -26,7 +26,7 @@ More
 More
 
 1. Initiative
-2. Armor
+2. Armor Class
 3. Movement
 
 More
